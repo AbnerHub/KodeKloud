@@ -1,0 +1,15 @@
+# Ignorar archivos temporales de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignorar carpetas de configuración de VS Code
+.vscode/
+
+# Ignorar archivos de logs
+*.log
+
+# ignora estos:
+.terraform/
+*.tfstate
+*.tfstate.backup
